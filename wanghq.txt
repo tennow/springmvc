@@ -1,2 +1,3 @@
 我在学习git
 git是一个分布式的管理工具
+fixed a bug
